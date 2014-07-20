@@ -1,5 +1,5 @@
 //#####################################################
-// Merge all uploaded chunks and adjustes progress bars
+// Sleep in miliseconds
 //#####################################################
 function sleep (sleepDuration) {
   var now = new Date ().getTime ();
